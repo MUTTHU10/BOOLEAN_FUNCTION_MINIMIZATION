@@ -14,8 +14,6 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 
-**Theory**
-
 **Logic Diagram**
 
 **Procedure**
@@ -53,10 +51,11 @@ RegisterNumber:25011438
 **Output:**
 
 **RTL**
+**Timing Diagram**
 <img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/eefad412-b938-4d59-8d78-abb568554b6f" />
 
 
-**Timing Diagram**
+
 
 **Result:**
 
